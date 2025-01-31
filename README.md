@@ -1,6 +1,6 @@
 <h2>About me</h2>
-<p>A highly motivated, passionate, and detail-oriented 3rd-year Computer Science student from Silpakorn University. I am currently open for a cooperative education, intern or a new job opportunity.
-<br><br>
+<p>A highly motivated, passionate, and detail-oriented 3rd-year Computer Science student from Silpakorn University.<br>
+I am currently open for a cooperative education, intern or a new job opportunity.<br><br>
 While I am not developing, I like to spend time with my girlfriend and games.</p>
 
 <h2>Skills</h2>
