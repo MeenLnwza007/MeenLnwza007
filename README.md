@@ -29,4 +29,5 @@ While I am not developing, I like to spend time with my girlfriend and games.</p
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://web.facebook.com/pitmn.04)](https://web.facebook.com/pitmn.04)
 [![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white&link=https://line.me/ti/p/FyNYVSVnxr)](https://line.me/ti/p/FyNYVSVnxr)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/1mpitnis_/)](https://www.instagram.com/1mpitnis_/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pimmahasiri_p@silpakorn.edu)](mailto:pimmahasiri_p@silpakorn.edu)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/Jemisce007/)](https://steamcommunity.com/id/Jemisce007/)
