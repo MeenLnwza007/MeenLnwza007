@@ -5,7 +5,7 @@ While I am not developing, I like to spend time with my girlfriend and games.</p
 
 <h2>Skills</h2>
 
-**Programming** 
+- **Programming** 
 <br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -15,7 +15,7 @@ While I am not developing, I like to spend time with my girlfriend and games.</p
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
 
-**Design** 
+- **Design** 
 <br>
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -31,3 +31,6 @@ While I am not developing, I like to spend time with my girlfriend and games.</p
 <a href="https://www.instagram.com/1mpitnis_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:pimmahasiri_p@silpakorn.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/Jemisce007/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat&logo=Steam&logoColor=white"/></a>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meenlnwza007&layout=compact&theme=dark&bg_color=0A0A0A" alt="Meenlnwza007 Top Languages"/>
