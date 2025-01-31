@@ -33,4 +33,4 @@ While I am not developing, I like to spend time with my girlfriend and games.</p
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/Jemisce007/)](https://steamcommunity.com/id/Jemisce007/)
 
 <br>
-<a href="https://www.linkedin.com/in/pitchaya-pimmahasiri-b76a24336/"><img src="https://img.shields.io/badge/-LinkedIn?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pitchaya-pimmahasiri-b76a24336/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
