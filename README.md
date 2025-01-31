@@ -31,3 +31,6 @@ While I am not developing, I like to spend time with my girlfriend and games.</p
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/1mpitnis_/)](https://www.instagram.com/1mpitnis_/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pimmahasiri_p@silpakorn.edu)](mailto:pimmahasiri_p@silpakorn.edu)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/Jemisce007/)](https://steamcommunity.com/id/Jemisce007/)
+
+<br>
+<a href="https://www.linkedin.com/in/pitchaya-pimmahasiri-b76a24336/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/>LinkedIn</a>
