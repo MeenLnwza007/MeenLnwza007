@@ -25,17 +25,9 @@ While I am not developing, I like to spend time with my girlfriend and games.</p
 
 <h2>Contact me</h2>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pitchaya-pimmahasiri-b76a24336/)](https://www.linkedin.com/in/pitchaya-pimmahasiri-b76a24336/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://web.facebook.com/pitmn.04)](https://web.facebook.com/pitmn.04)
-[![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white&link=https://line.me/ti/p/FyNYVSVnxr)](https://line.me/ti/p/FyNYVSVnxr)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/1mpitnis_/)](https://www.instagram.com/1mpitnis_/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pimmahasiri_p@silpakorn.edu)](mailto:pimmahasiri_p@silpakorn.edu)
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/Jemisce007/)](https://steamcommunity.com/id/Jemisce007/)
-
-<br>
 <a href="https://www.linkedin.com/in/pitchaya-pimmahasiri-b76a24336/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://web.facebook.com/pitmn.04"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://line.me/ti/p/FyNYVSVnxr"><img src="https://img.shields.io/badge/Line-00C300?style=flat&logo=Line&logoColor=white"/></a>
 <a href="https://www.instagram.com/1mpitnis_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:pimmahasiri_p@silpakorn.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://steamcommunity.com/id/Jemisce007/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=Steam&logoColor=white"/></a>
+<a href="https://steamcommunity.com/id/Jemisce007/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat&logo=Steam&logoColor=white"/></a>
