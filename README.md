@@ -15,13 +15,6 @@ While I am not developing, I like to spend time with my girlfriend and games.</p
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
 
-**OS**
-<br>
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-<br>
-
 **Design** 
 <br>
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -30,12 +23,10 @@ While I am not developing, I like to spend time with my girlfriend and games.</p
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <br>
 
-**Others**
-<br>
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-<br>
-
 <h2>Contact me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pitchaya-pimmahasiri-b76a24336/)](https://www.linkedin.com/in/pitchaya-pimmahasiri-b76a24336/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://web.facebook.com/pitmn.04)](https://web.facebook.com/pitmn.04)
+[![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white&link=https://line.me/ti/p/FyNYVSVnxr)](https://line.me/ti/p/FyNYVSVnxr)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/1mpitnis_/)](https://www.instagram.com/1mpitnis_/)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/Jemisce007/)](https://steamcommunity.com/id/Jemisce007/)
