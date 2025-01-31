@@ -34,3 +34,4 @@ While I am not developing, I like to spend time with my girlfriend and games.</p
 
 <br>
 <a href="https://www.linkedin.com/in/pitchaya-pimmahasiri-b76a24336/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://web.facebook.com/pitmn.04"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
